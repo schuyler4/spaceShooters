@@ -1,0 +1,5 @@
+need to fix movment so ship canot move of screen
+
+need to fix shooting x
+
+sound olnly works some of the time
